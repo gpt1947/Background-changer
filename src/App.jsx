@@ -1,4 +1,4 @@
-import Backg from "./Component/backg"
+import Backg from "./Component/Backg"
 
 function App() {
  
